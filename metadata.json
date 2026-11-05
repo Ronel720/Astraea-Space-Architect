@@ -1,0 +1,6 @@
+{
+  "name": "Astraea: Space Mission Architect",
+  "description": "An interactive 3D space mission design and simulation game where single players or teams of up to 4 flight directors balance science, budget, power, mass, telemetry, and launch trajectories to explore the solar system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
